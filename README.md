@@ -90,5 +90,7 @@
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-### GitHub Contributions:
-![Snake Grid](https://github.com/AhmedYeasin/contribution-snake/blob/output/grid.svg)
+
+
+### 📊 My Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyeasin&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
