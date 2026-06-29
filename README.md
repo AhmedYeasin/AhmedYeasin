@@ -93,4 +93,5 @@
 
 
 ### 📊 My Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyeasin&layout=compact&theme=tokyonighta&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyeasin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
